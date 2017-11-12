@@ -1,2 +1,5 @@
+numpy==1.13.3
+scipy==1.0.0
+matplotlib==2.1.0
 opencv-python==3.3.0.10
 moviepy==0.2.3.2

@@ -56,3 +56,27 @@ A browser window will appear showing the contents of the current directory.  Cli
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
+
+## Running the project.
+
+You should have python3 and conda already installed in your system. Check above for steps.
+
+```shell
+$ git clone https://github.com/Amay22/Self-Driving-Car-Lane-Lines-1
+
+$ cd Self-Driving-Car-Lane-Lines-1
+
+$ pip install -r requirements.txt
+
+$ jupyter notebook
+````
+Go to localhost:<whatever port jupyter used probably 8888> in your browser.
+
+Open file Self-Driving-Car-ND-Lane-Detection.ipynb and run it using the run button up top.
+
+Conda Environment would be better.
+
+
+
+
+
